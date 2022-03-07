@@ -1,16 +1,16 @@
-FastApi application which has users roles and resources collection\
+FastApi application which has users roles and resources collection
 
-**Resources** collection holds the various resources existing(Example: EC2,S3,lambda)\
+**Resources** collection holds the various resources existing(Example: EC2,S3,lambda)
 
-**Roles** collection holds various actions that can be performed on the resources(Example: read->Ec2,List->S3,Write->lambda)\
+**Roles** collection holds various actions that can be performed on the resources(Example: read->Ec2,List->S3,Write->lambda)
 
-**Users** collection holds the list of various users with their names and the roles to which they have access to\
+**Users** collection holds the list of various users with their names and the roles to which they have access to
 
 The database Used is **MongoDB**
 
 Use **MongoDB** compass for data visualisation
 
-**How to use the code?**\
+**How to use the code?**
 
 1.Clone the respository
 ```
