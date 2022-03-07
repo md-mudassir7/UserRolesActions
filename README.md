@@ -8,9 +8,10 @@ FastApi application which has users roles and resources collection\
 
 The database Used is **MongoDB**
 
-Use MongoDB compass for data visualisation
+Use **MongoDB** compass for data visualisation
 
-**How to use the code?**
+**How to use the code?**\
+
 1.Clone the respository
 ```
 git clone https://github.com/mdmudassir7/UserRolesActions.git
